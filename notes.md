@@ -1,7 +1,7 @@
 g++ main.cpp -o main
 
 
-$g++ -W -Wall -pedantic -o programName -p sourceFile.cpp:
+$g++ -W -Wall -pedantic -o programName -p sourceFile.cpp
 
 -W: Print extra warning messages for some problems.
 -Wall: Enable all the warnings about questionable code
